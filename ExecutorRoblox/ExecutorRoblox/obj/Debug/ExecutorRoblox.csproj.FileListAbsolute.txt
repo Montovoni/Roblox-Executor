@@ -1,0 +1,13 @@
+C:\Users\monto\Downloads\Roblox\ExecutorRoblox\ExecutorRoblox\bin\Debug\ExecutorRoblox.exe.config
+C:\Users\monto\Downloads\Roblox\ExecutorRoblox\ExecutorRoblox\bin\Debug\ExecutorRoblox.exe
+C:\Users\monto\Downloads\Roblox\ExecutorRoblox\ExecutorRoblox\bin\Debug\ExecutorRoblox.pdb
+C:\Users\monto\Downloads\Roblox\ExecutorRoblox\ExecutorRoblox\bin\Debug\FastColoredTextBox.dll
+C:\Users\monto\Downloads\Roblox\ExecutorRoblox\ExecutorRoblox\bin\Debug\WeAreDevs_API.dll
+C:\Users\monto\Downloads\Roblox\ExecutorRoblox\ExecutorRoblox\obj\Debug\ExecutorRoblox.csproj.AssemblyReference.cache
+C:\Users\monto\Downloads\Roblox\ExecutorRoblox\ExecutorRoblox\obj\Debug\ExecutorRoblox.Properties.Resources.resources
+C:\Users\monto\Downloads\Roblox\ExecutorRoblox\ExecutorRoblox\obj\Debug\ExecutorRoblox.csproj.GenerateResource.cache
+C:\Users\monto\Downloads\Roblox\ExecutorRoblox\ExecutorRoblox\obj\Debug\ExecutorRoblox.csproj.CoreCompileInputs.cache
+C:\Users\monto\Downloads\Roblox\ExecutorRoblox\ExecutorRoblox\obj\Debug\ExecutorRoblox.csproj.CopyComplete
+C:\Users\monto\Downloads\Roblox\ExecutorRoblox\ExecutorRoblox\obj\Debug\ExecutorRoblox.exe
+C:\Users\monto\Downloads\Roblox\ExecutorRoblox\ExecutorRoblox\obj\Debug\ExecutorRoblox.pdb
+C:\Users\monto\Downloads\Roblox\ExecutorRoblox\ExecutorRoblox\obj\Debug\ExecutorRoblox.ExecutorRoblox.resources
